@@ -18,4 +18,4 @@ Step5:- One terminal run the turtlebot3 gazebo simulation
 ------------------------------------------------------------------------------------------
 Step6:- In second terminal run the gesture node
         ros2 run tb3_gesture_control gesture_node
-
+------------------------------------------------------------------------------------------
